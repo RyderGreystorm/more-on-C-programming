@@ -7,7 +7,7 @@ int main(){
 
     srand(time(0));
     int ran = (rand()% 100) + 10;
-    int arr[10], i, *p;
+    int arr[20], i, *p;
 
 
     p = arr;
