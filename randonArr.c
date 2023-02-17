@@ -25,7 +25,7 @@ int main(){
     }
     
     
-
-
+    puts("done and duster\n");
+    printf("%zu", sizeof(long int));
     return 0;
 }
